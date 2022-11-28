@@ -1,0 +1,1 @@
+# simple-near-amm-contract
